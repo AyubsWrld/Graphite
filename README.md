@@ -1,5 +1,3 @@
 # Graphite
 
-  
-
-B4 eject
+### Wireless Storage Extension for Mobile Phones
